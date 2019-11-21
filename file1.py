@@ -1,1 +1,1 @@
-print ("Hello Danai")
+print ("Hello people")
